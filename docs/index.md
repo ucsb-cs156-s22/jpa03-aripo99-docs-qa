@@ -3,9 +3,9 @@
 
 ## Repos
 
-* Source Repo: <https://github.com/{{site.repo}}>
-* Production Docs Repo: <https://github.com/{{site.repo}}-docs>
-* QA Docs Repo: <https://github.com/{{site.repo}}-docs-qa>
+* Source Repo: <https://github.com/ucsb-cs156-s22/jpa03-aripo99>
+* Production Docs Repo: <https://github.com/ucsb-cs156-s22/jpa03-aripo99-docs>
+* QA Docs Repo: <https://github.com/ucsb-cs156-s22/jpa03-aripo99-docs-qa>
 
 ## Production Documentation
 
